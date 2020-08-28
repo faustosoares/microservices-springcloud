@@ -1,0 +1,11 @@
+package com.br.alura.microservices.loja.service;
+
+import com.br.alura.microservices.loja.controller.dto.CompraDTO;
+
+public class CompraService {
+	
+	public void realizaCompra(CompraDTO compra) {
+		
+	}
+
+}
